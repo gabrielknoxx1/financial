@@ -1,0 +1,12 @@
+{
+  "Hello to React": "Seja bem vindo à React ao react-i18next",
+  "languages": "Idioma",
+  "incomes": "Entradas",
+  "withdraw": "Saidas",
+  "add": "Incluir",
+  "cancel": "Cancelar",
+  "Include your release": "Inclua seu lançamento",
+  "Enter the value of the launch": "Informe o valor do lançamento",
+  "Withdrawal": "Retirada",
+  "Deposit": "Depósito"
+}
