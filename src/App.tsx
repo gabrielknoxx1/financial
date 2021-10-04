@@ -1,12 +1,14 @@
-import React from 'react';
+import React, {Suspense} from 'react';
 import {SafeAreaView, Text} from 'react-native';
 import {Home} from './screens/Home';
 
 const App = () => {
   return (
-    <SafeAreaView>
-      <Home />
-    </SafeAreaView>
+    <Suspense fallback={<Text>Loading ...</Text>}>
+      <SafeAreaView>
+        <Home />
+      </SafeAreaView>
+    </Suspense>
   );
 };
 
