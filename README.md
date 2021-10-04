@@ -34,6 +34,3 @@ Redes Sociais
 <a href="https://www.linkedin.com/in/gabriel-sousa-5a719893/">
   <img src="https://icomoon.io/icons39f00d9/4/456.svg"></img>
 </a>
-<a href="https://www.instagram.com/gabrielknoxx">
-  <img src="https://icomoon.io/icons39f00d9/4/387.svg"></img>
-</a>
